@@ -1,0 +1,20 @@
+body {
+    width: 300px;
+    padding: 5px;
+    font-size: 12px;
+  }
+
+.list-group{
+  margin-bottom: 5px !important;
+}
+
+.btn{
+  height:20px;
+  font-size:10px;
+  padding:2px;
+}
+
+.list-group-item{
+  height:30px;
+  padding :0.75rem 0.25rem;
+}
