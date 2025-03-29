@@ -1,0 +1,1 @@
+# new-tabs-blocker
