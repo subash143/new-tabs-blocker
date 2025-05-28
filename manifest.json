@@ -5,8 +5,7 @@
     "description": "Prevents new tabs from opening from the current tab in chrome.",
     "permissions": [
       "tabs",
-      "storage",
-      "webNavigation"
+      "storage"
     ],
     "background": {
       "service_worker": "background.js"
